@@ -47,19 +47,19 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 <img src="https://github.com/user-attachments/assets/b4670152-d857-4c49-9892-7bb98af6c23b" alt="Image" width="900" height="500" />
 
 ### Giao diện đăng ký
-<img src="https://github.com/user-attachments/assets/a3fd668e-b83c-4796-b135-c5e79ab5adec" width="550" height="600" />
+<img src="https://github.com/user-attachments/assets/a3fd668e-b83c-4796-b135-c5e79ab5adec" width="550" height="700" />
 
 ### Giao diện đăng nhập
 <img src="https://github.com/user-attachments/assets/eb52297f-3318-4a30-9c7a-fb02862f9431" width="550" height="600" />
 
 ### Giao diện chính
-<img src="https://github.com/user-attachments/assets/56d9f7f8-b007-4622-9b77-76bb8816147c" width="1200" height="400" />
+<img src="https://github.com/user-attachments/assets/42c6d1a3-143d-4ddc-86bb-04696455954b" width="1200" height="400" />
 
 ### Giao diện thông tin chi tiết
-<img src="https://github.com/user-attachments/assets/dd62748f-804f-4195-8802-d6c3458b2491" width="1400" height="500" />
+<img src="" width="1400" height="500" />
 
 ## Giao diện chỉnh sửa
-<img src="https://github.com/user-attachments/assets/03b761eb-5872-4aee-80fe-d8bdb05e8017" width="550" height="600" />
+<img src="https://github.com/user-attachments/assets/8a020748-0fec-4819-869a-3be48b996dce" width="550" height="600" />
 
 ## API Routes
 | Phương thức | Endpoint               | Mô tả                        |
