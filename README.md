@@ -56,10 +56,10 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 <img src="https://github.com/user-attachments/assets/42c6d1a3-143d-4ddc-86bb-04696455954b" width="1200" height="400" />
 
 ### Giao diện thông tin chi tiết
-<img src="" width="1400" height="500" />
+<img src="https://github.com/user-attachments/assets/8a020748-0fec-4819-869a-3be48b996dce" width="1400" height="500" />
 
 ## Giao diện chỉnh sửa
-<img src="https://github.com/user-attachments/assets/8a020748-0fec-4819-869a-3be48b996dce" width="550" height="600" />
+<img src="https://github.com/user-attachments/assets/74429763-aa75-4c18-a575-f76c8fd160b2" width="550" height="600" />
 
 ## API Routes
 | Phương thức | Endpoint               | Mô tả                        |
