@@ -44,8 +44,8 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 
 ## Giao diện (UI)
 ### Giao diên UI
-<img src="https://github.com/TranThanh1905/Project_thiet_ke_web_nang_cao/issues/1#issue-2882052975"  width="250" />
-
+[<img src="https://github.com/TranThanh1905/Project_thiet_ke_web_nang_cao/issues/1#issue-2882052975"  width="250" />
+](https://private-user-images.githubusercontent.com/124223082/417212565-b4670152-d857-4c49-9892-7bb98af6c23b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA1ODUxOTEsIm5iZiI6MTc0MDU4NDg5MSwicGF0aCI6Ii8xMjQyMjMwODIvNDE3MjEyNTY1LWI0NjcwMTUyLWQ4NTctNGM0OS05ODkyLTdiYjk4YWY2YzIzYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIyNlQxNTQ4MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZDRjMDQ2ZmNmZTkyOTk5OWQxOWY3NTc2NDI0ZWI2NjBhYzNmNjc4YWZjNzc4MDY5NGRlMDFlMTg5OWI1MzE3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.p-E7ERaFLlSAxZMP0z8LQ5px2-QZ-DE3pZtx3hRvooc)
 
 
 ### Giao diện đăng ký
