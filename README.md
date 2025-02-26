@@ -44,7 +44,7 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 
 ## Giao diện (UI)
 ### Giao diên UI
-![Image](https://github.com/user-attachments/assets/b4670152-d857-4c49-9892-7bb98af6c23b)
+<img src="https://github.com/user-attachments/assets/b4670152-d857-4c49-9892-7bb98af6c23b" alt="Image" width="550" height="600" />
 
 ### Giao diện đăng ký
 <img src="https://github.com/user-attachments/assets/28ab762c-d5f8-40c8-9ce7-8ca51d1077fc" width="550" height="600" />
