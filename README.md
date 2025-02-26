@@ -47,10 +47,10 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 <img src="https://github.com/user-attachments/assets/b4670152-d857-4c49-9892-7bb98af6c23b" alt="Image" width="900" height="500" />
 
 ### Giao diện đăng ký
-<img src="https://github.com/user-attachments/assets/28ab762c-d5f8-40c8-9ce7-8ca51d1077fc" width="550" height="600" />
+<img src="https://github.com/user-attachments/assets/a3fd668e-b83c-4796-b135-c5e79ab5adec" width="550" height="600" />
 
 ### Giao diện đăng nhập
-<img src="https://github.com/user-attachments/assets/480fcc32-e5c8-4dd8-813d-1080e6976045" width="550" height="600" />
+<img src="https://github.com/user-attachments/assets/eb52297f-3318-4a30-9c7a-fb02862f9431" width="550" height="600" />
 
 ### Giao diện chính
 <img src="https://github.com/user-attachments/assets/56d9f7f8-b007-4622-9b77-76bb8816147c" width="1200" height="400" />
