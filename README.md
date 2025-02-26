@@ -28,18 +28,27 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 ## Cấu trúc thư mục chính
 📂 app/
  ├── 📂 Http/
- │    ├── 📂 Controllers/       # Chứa các controller
+ 
+ │    ├── 📂 Controllers/   
+ 
  │    │    ├── AuthController.php
+ 
  │    │    ├── CourseController.php
- │    ├── 📂 Middleware/        # Middleware xác thực
+ 
+ │    ├── 📂 Middleware/       
+ 
  ├── 📂 Models/
+ 
  │    ├── User.php
+ 
  │    ├── Course.php
+ 
 📂 routes/
- ├── web.php       # Định nghĩa các routes chính
- ├── api.php       # Routes cho API (nếu có)
+
+ ├── web.php       
+ ├── api.php       
 📂 resources/
- ├── 📂 views/     # Giao diện Blade templates
+ ├── 📂 views/     
  │    ├── 📂 auth/    # Form đăng ký & đăng nhập
  │    ├── 📂 courses/ # Các trang quản lý khóa học
 
