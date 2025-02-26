@@ -1,8 +1,7 @@
 # Thiết kế web nâng cao Project
 Project: Quản lý lớp và khóa học(Course Management System)
 Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức năng như tạo, chỉnh sửa, xóa, tìm kiếm và phân trang danh sách khóa học.
-
-## Link Repository: https://github.com/TranThanh1905/Project_thiet_ke_web_nang_cao
+### Link Repository: https://github.com/TranThanh1905/Project_thiet_ke_web_nang_cao
 
 ## Cài đặt ⚙️ 
 ### Yêu cầu hệ thống
