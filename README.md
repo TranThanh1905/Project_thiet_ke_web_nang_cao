@@ -35,13 +35,13 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
      ├── 📂 Models/
      │    ├── User.php
      │    ├── Course.php
-📂 routes/
- ├── web.php       
- ├── api.php       
-📂 resources/
- ├── 📂 views/     
- │    ├── 📂 auth/    # Form đăng ký & đăng nhập
- │    ├── 📂 courses/ # Các trang quản lý khóa học
+    📂 routes/
+     ├── web.php       
+     ├── api.php       
+    📂 resources/
+     ├── 📂 views/     
+     │    ├── 📂 auth/    # Form đăng ký & đăng nhập
+     │    ├── 📂 courses/ # Các trang quản lý khóa học
 
 ## Giao diện (UI)
 ### Giao diên UI
