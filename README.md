@@ -26,25 +26,19 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 - ⚡ **Form validation**: Kiểm tra dữ liệu đầu vào để đảm bảo tính toàn vẹn.
 
 ## Cấu trúc thư mục chính
-📂 app/
- ├── 📂 Http/
- 
- │    ├── 📂 Controllers/   
- 
- │    │    ├── AuthController.php
- 
- │    │    ├── CourseController.php
- 
- │    ├── 📂 Middleware/       
- 
- ├── 📂 Models/
- 
- │    ├── User.php
- 
- │    ├── Course.php
- 
-📂 routes/
+    📂 app/
 
+     ├── 📂 Http/
+     
+     │    ├── 📂 Controllers/  
+     
+     │    │    ├── AuthController.php
+     │    │    ├── CourseController.php
+     │    ├── 📂 Middleware/       
+     ├── 📂 Models/
+     │    ├── User.php
+     │    ├── Course.php
+📂 routes/
  ├── web.php       
  ├── api.php       
 📂 resources/
