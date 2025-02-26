@@ -2,6 +2,8 @@
 Project: Quản lý lớp và khóa học(Course Management System)
 Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức năng như tạo, chỉnh sửa, xóa, tìm kiếm và phân trang danh sách khóa học.
 
+## Link Repository: https://github.com/TranThanh1905/Project_thiet_ke_web_nang_cao
+
 ## Cài đặt ⚙️ 
 ### Yêu cầu hệ thống
 + PHP 8.2.12 
@@ -22,6 +24,24 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 - ✏️ **Chỉnh sửa khóa học**: Cập nhật thông tin khóa học.
 - 🗑️ **Xóa khóa học**: Xóa khóa học khỏi hệ thống.
 - ⚡ **Form validation**: Kiểm tra dữ liệu đầu vào để đảm bảo tính toàn vẹn.
+
+## Cấu trúc thư mục chính
+📂 app/
+ ├── 📂 Http/
+ │    ├── 📂 Controllers/       # Chứa các controller
+ │    │    ├── AuthController.php
+ │    │    ├── CourseController.php
+ │    ├── 📂 Middleware/        # Middleware xác thực
+ ├── 📂 Models/
+ │    ├── User.php
+ │    ├── Course.php
+📂 routes/
+ ├── web.php       # Định nghĩa các routes chính
+ ├── api.php       # Routes cho API (nếu có)
+📂 resources/
+ ├── 📂 views/     # Giao diện Blade templates
+ │    ├── 📂 auth/    # Form đăng ký & đăng nhập
+ │    ├── 📂 courses/ # Các trang quản lý khóa học
 
 ## Giao diện (UI)
 ### Giao diên UI
