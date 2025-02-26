@@ -27,11 +27,8 @@ Hệ thống giúp quản lý thông tin các khóa học, bao gồm các chức
 
 ## Cấu trúc thư mục chính
     📂 app/
-
      ├── 📂 Http/
-     
      │    ├── 📂 Controllers/  
-     
      │    │    ├── AuthController.php
      │    │    ├── CourseController.php
      │    ├── 📂 Middleware/       
